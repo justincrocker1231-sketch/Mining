@@ -1,11 +1,7 @@
 {
   "algo": "progpowz",
   "pool": "pool.woolypooly.com:3146",
-  "ssl": false,
-  "pass": "x",
   "wallet": "ZxBo5aDyWy5DxHe2rEcM9YFsKVUnWoM9viaV7ibhZJ2k2vrn5caeQpL3S2RHGEVCp4BTSg93ctpV21MV1rQ3MgCq1r7Zcq8Mb",
   "worker": "5080",
-  "miner": "rigel",
-  "oc_profile": "balanced",
-  "extra_args": ""
+  "miner": "rigel"
 }
